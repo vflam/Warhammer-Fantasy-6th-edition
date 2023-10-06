@@ -1,34 +1,21 @@
-Template Data Repo
+Warhammer Fantasy 6th Edition New Recruit Files
 ==================
+BattleScribe format files for New Recruit army builder to support Warhammer Fantasy 6th Edition
 
-[![Latest release](https://img.shields.io/github/release/BSData/TemplateDataRepo.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/releases/latest)
-[![Commits (since latest release)](https://img.shields.io/github/commits-since/BSData/TemplateDataRepo/latest.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/releases)
-[![Open bugs](https://img.shields.io/github/issues/BSData/TemplateDataRepo/bug.svg?style=flat-square&label=bugs)](https://github.com/BSData/TemplateDataRepo/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
-[![Contributors](https://img.shields.io/github/contributors/BSData/TemplateDataRepo.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/graphs/contributors)
-[![Commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/TemplateDataRepo.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/pulse/monthly)
+These files are minor modifications to Ergo Farg's original BattleScribe compatible files here - https://github.com/Ergofarg/Warhammer-Fantasy-6th-edition
+We aim to keep them up to date as possible and compatible with New Recruit
 
-[![Chat on Discord](https://img.shields.io/discord/558412685981777922.svg?logo=discord&style=popout-square)](https://www.bsdata.net/discord)
+## Get Started ##
+To start building army lists in New Recruit for Warhammer Fantasy 6th, Install this Game in your New Recruit
 
-## Overview ##
+<img width="279" alt="image" src="https://github.com/vflam/Warhammer-Fantasy-6th-edition/assets/43087/5374eb90-550f-4ee5-b400-c8b98eacef74">
 
-__What's this?__
+<img width="548" alt="image" src="https://github.com/vflam/Warhammer-Fantasy-6th-edition/assets/43087/820a766e-276d-4e44-9104-8e5ecd63ca24">
 
-BSData organisation created this project. It's a GitHub repository of datafiles.
-Maintained by community, in no way endorsed by BattleScribe or any other company/publisher. If you want
-to develop - cool! We need you! Take a look at [our homepage][BSData.net]
-
-__Okay, nice project. Is it actually working?__ _I just want those files..._
-
-Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][]
-
-__I found a bug!__ / *I have another request*
-
-Great, thank you! Please [Report a bug][bug report] - you can also suggest enhancements and raise other issues there.
+## Logging Bugs or Requests
+* [Report an issue](https://github.com/vflam/Warhammer-Fantasy-6th-edition/issues)
+* [Chat on Discord](https://discord.com/channels/736936369670193332/1151528555595964467)
+* [![Contributors](https://img.shields.io/github/contributors/BSData/TemplateDataRepo.svg?style=flat-square)]([https://github.com/BSData/TemplateDataRepo/graphs/contributors](https://github.com/vflam/Warhammer-Fantasy-6th-edition/graphs/contributors))
 
 ## Links ##
-
-* [BSData organization homepage][BSData.net]
-* [BattleScribe app homepage](https://www.battlescribe.net/)
-
-[BSData.net]: https://www.bsdata.net/
-[bug report]: https://github.com/BSData/TemplateDataRepo/issues/new/choose
+* [New Recruit - Army Builder](https://www.newrecruit.eu/)]
