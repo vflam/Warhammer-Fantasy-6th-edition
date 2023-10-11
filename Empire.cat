@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="5c3d-7f54-5a40-6940" name="Empire" revision="11" battleScribeVersion="2.03" authorName="Ergo Fargo" authorContact="ergofargo@gmail.com" library="false" gameSystemId="6d8e-38d9-3c69-febf" gameSystemRevision="8" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
+<catalogue id="5c3d-7f54-5a40-6940" name="Empire" revision="12" battleScribeVersion="2.03" authorName="Ergo Fargo" authorContact="ergofargo@gmail.com" library="false" gameSystemId="6d8e-38d9-3c69-febf" gameSystemRevision="8" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
   <readme>Huntsmen do not count towards the MINIMUM core choice.</readme>
   <publications>
     <publication id="b61c-34ec-3be0-1b38" name="Empire Army Book 2000"/>
@@ -593,7 +593,7 @@
                 <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="675d-e553-2594-0c53" type="max"/>
               </constraints>
               <entryLinks>
-                <entryLink id="2def-b6c4-dfa7-31bf" name="Hocbland long rifle" hidden="false" collective="false" import="true" targetId="42ca-6650-2617-8bc3" type="selectionEntry">
+                <entryLink id="2def-b6c4-dfa7-31bf" name="Hochland long rifle" hidden="false" collective="false" import="true" targetId="42ca-6650-2617-8bc3" type="selectionEntry">
                   <costs>
                     <cost name="pts" typeId="ecfa-8486-4f6c-c249" value="20"/>
                   </costs>
@@ -2266,7 +2266,7 @@
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a056-8d1c-1452-5a04" type="max"/>
           </constraints>
           <entryLinks>
-            <entryLink id="0343-9a05-d220-c435" name="Hocbland long rifle" hidden="false" collective="false" import="true" targetId="42ca-6650-2617-8bc3" type="selectionEntry">
+            <entryLink id="0343-9a05-d220-c435" name="Hochland long rifle" hidden="false" collective="false" import="true" targetId="42ca-6650-2617-8bc3" type="selectionEntry">
               <constraints>
                 <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8a45-7c25-ba49-8421" type="max"/>
               </constraints>
@@ -2853,7 +2853,7 @@
         <cost name="Dispel Dice" typeId="6001-b2bf-4529-c07d" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="59b3-1377-852b-4182" name="Van Horstmann&apos;s Specullum" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="59b3-1377-852b-4182" name="Van Horstmann&apos;s Speculum" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="650c-9b1d-07e9-6deb" type="max"/>
         <constraint field="selections" scope="roster" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8512-2bab-3354-e1df" type="max"/>
@@ -2932,9 +2932,9 @@
         <cost name="Dispel Dice" typeId="6001-b2bf-4529-c07d" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="42ca-6650-2617-8bc3" name="Hocbland long rifle" publicationId="b61c-34ec-3be0-1b38" page="19" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="42ca-6650-2617-8bc3" name="Hochland long rifle" publicationId="b61c-34ec-3be0-1b38" page="19" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
-        <infoLink id="351e-7624-7884-fed7" name="Hocbland long rifle" hidden="false" targetId="e32e-791d-8012-a6fb" type="profile"/>
+        <infoLink id="351e-7624-7884-fed7" name="Hochland long rifle" hidden="false" targetId="e32e-791d-8012-a6fb" type="profile"/>
         <infoLink id="4493-ef12-1de4-b7ba" name="Scientific Precision" hidden="false" targetId="4eb3-4ab8-e98f-b4eb" type="rule"/>
       </infoLinks>
       <costs>
@@ -3009,6 +3009,9 @@
         <cost name="Casting Dice" typeId="fcec-2340-6368-a2ba" value="0"/>
         <cost name="Dispel Dice" typeId="6001-b2bf-4529-c07d" value="0"/>
       </costs>
+      <infoLinks>
+        <infoLink name="The Mace Of Helstrum" hidden="false" type="rule" id="be04-267f-f0c-eba9" targetId="26d5-0e1b-c3a4-a138" publicationId="b61c-34ec-3be0-1b38" page="20"/>
+      </infoLinks>
     </selectionEntry>
     <selectionEntry id="689f-a8a5-9a74-6ee1" name="Sword Of Fate" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
@@ -4359,7 +4362,7 @@ Only then is the total score and its effects worked out. Including Miscasts and 
         <characteristic name="Special Rules" typeId="a21a-cdc0-4b13-b236">Move•or•fire; armour piercing, First volley</characteristic>
       </characteristics>
     </profile>
-    <profile id="e32e-791d-8012-a6fb" name="Hocbland long rifle" publicationId="b61c-34ec-3be0-1b38" page="19" hidden="false" typeId="7889-42d9-70a0-3ea9" typeName="Weapon">
+    <profile id="e32e-791d-8012-a6fb" name="Hochland long rifle" publicationId="b61c-34ec-3be0-1b38" page="19" hidden="false" typeId="7889-42d9-70a0-3ea9" typeName="Weapon">
       <characteristics>
         <characteristic name="Range" typeId="3107-4d1e-9a51-6564">36&quot;</characteristic>
         <characteristic name="Strength" typeId="6fe4-1ebb-cb04-1378">4</characteristic>
