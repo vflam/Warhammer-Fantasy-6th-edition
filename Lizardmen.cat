@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="5f3d-d4db-ca2f-f63d" name="Lizardmen" revision="7" battleScribeVersion="2.03" authorName="Thomas Saxon and Ergo Fargo" authorContact="ergofargo@gmail.com" library="false" gameSystemId="6d8e-38d9-3c69-febf" gameSystemRevision="8" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="5f3d-d4db-ca2f-f63d" name="Lizardmen" revision="8" battleScribeVersion="2.03" authorName="Thomas Saxon and Ergo Fargo" authorContact="ergofargo@gmail.com" library="false" gameSystemId="6d8e-38d9-3c69-febf" gameSystemRevision="8" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <publications>
     <publication id="3a49-dd2e-fcaa-cdb1" name="Lizardmen  2003"/>
   </publications>
@@ -7,7 +7,7 @@
     <categoryEntry id="5c12-eebd-de21-0b3d" name="Slann" hidden="false"/>
   </categoryEntries>
   <selectionEntries>
-    <selectionEntry id="64c4-4576-b4b0-0b87" name="Slann Mage Priest" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="64c4-4576-b4b0-0b87" name="Slann Mage Priest" hidden="false" collective="false" import="true" type="model">
       <infoLinks>
         <infoLink id="474d-f82a-a406-c6aa" name="Slan Mage Priest" hidden="false" targetId="5943-700c-955c-d22d" type="profile"/>
         <infoLink id="9ab3-dcbe-e8b5-fb40" name="Cold Blooded" hidden="false" targetId="da71-1c1e-ded6-959a" type="rule"/>
@@ -129,7 +129,7 @@
         <cost name=" Dispel Dice" typeId="6001-b2bf-4529-c07d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c243-9509-ac23-a5a0" name="Saurus Oldblood" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="c243-9509-ac23-a5a0" name="Saurus Oldblood" hidden="false" collective="false" import="true" type="model">
       <infoLinks>
         <infoLink id="9b2c-3cb3-35a4-2ee3" name="Saurus Oldblood" hidden="false" targetId="8b58-5eef-0236-0cce" type="profile"/>
         <infoLink id="228b-cc3f-ccee-4965" name="Cold Blooded" hidden="false" targetId="da71-1c1e-ded6-959a" type="rule"/>
@@ -306,7 +306,7 @@
         <cost name=" Dispel Dice" typeId="6001-b2bf-4529-c07d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="23f6-f91a-f800-68ee" name="Skink Chief" publicationId="3a49-dd2e-fcaa-cdb1" page="59" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="23f6-f91a-f800-68ee" name="Skink Chief" publicationId="3a49-dd2e-fcaa-cdb1" page="59" hidden="false" collective="false" import="true" type="model">
       <infoLinks>
         <infoLink id="d5ab-11c6-29c7-82ed" name="Skink Chief" hidden="false" targetId="bd4c-23fc-ea1c-ce1e" type="profile"/>
         <infoLink id="8c31-a4e2-403e-423c" name="Aquatic" hidden="false" targetId="d1be-78da-561d-0934" type="rule"/>
@@ -496,7 +496,7 @@
         <cost name=" Dispel Dice" typeId="6001-b2bf-4529-c07d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c9ce-c817-1d25-962d" name="Saurus Scar-Veteran" publicationId="3a49-dd2e-fcaa-cdb1" page="59" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="c9ce-c817-1d25-962d" name="Saurus Scar-Veteran" publicationId="3a49-dd2e-fcaa-cdb1" page="59" hidden="false" collective="false" import="true" type="model">
       <infoLinks>
         <infoLink id="dfea-3737-5c57-fe36" name="Saurus Scar-Veterans" hidden="false" targetId="f1b0-dc96-6515-b7a6" type="profile"/>
         <infoLink id="5e8a-718e-b1f8-239b" name="Cold Blooded" hidden="false" targetId="da71-1c1e-ded6-959a" type="rule"/>
@@ -646,7 +646,7 @@
         <cost name=" Dispel Dice" typeId="6001-b2bf-4529-c07d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a67f-4641-9bbd-68f8" name="Skink Priest" publicationId="3a49-dd2e-fcaa-cdb1" page="59" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="a67f-4641-9bbd-68f8" name="Skink Priest" publicationId="3a49-dd2e-fcaa-cdb1" page="59" hidden="false" collective="false" import="true" type="model">
       <infoLinks>
         <infoLink id="0ab0-4ca3-3c71-7fa6" name="Skink Priest" hidden="false" targetId="d227-12e7-4455-fdee" type="profile"/>
         <infoLink id="212e-55ad-f474-1ec6" name="Cold Blooded" hidden="false" targetId="da71-1c1e-ded6-959a" type="rule"/>
@@ -1355,7 +1355,7 @@
             <cost name=" Dispel Dice" typeId="6001-b2bf-4529-c07d" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="c6b3-bb39-158b-6b1c" name="Kroxigor" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="c6b3-bb39-158b-6b1c" name="Kroxigor" hidden="false" collective="false" import="true" type="model">
           <constraints>
             <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0f7f-54ca-07e2-b68a" type="min"/>
           </constraints>
@@ -1494,7 +1494,7 @@
         <cost name=" Dispel Dice" typeId="6001-b2bf-4529-c07d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b897-4495-81ab-300f" name="Stegadon" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="b897-4495-81ab-300f" name="Stegadon" hidden="false" collective="false" import="true" type="model">
       <rules>
         <rule id="3185-17b2-4e70-9bcc" name="Unit Strength 8" hidden="false">
           <description>The Stegadon has a unit strength of 2. No not really its 8.</description>
@@ -1572,7 +1572,7 @@
         <cost name=" Dispel Dice" typeId="6001-b2bf-4529-c07d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6dcb-749a-4870-ff2f" name="Venerable Lord Kroak" publicationId="3a49-dd2e-fcaa-cdb1" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="6dcb-749a-4870-ff2f" name="Venerable Lord Kroak" publicationId="3a49-dd2e-fcaa-cdb1" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="89e0-c562-dc59-00b4" type="max"/>
       </constraints>
@@ -1724,7 +1724,7 @@ If there is a building or wall section directly underneath the place where this 
         <cost name=" Dispel Dice" typeId="6001-b2bf-4529-c07d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="06a5-d1d6-692f-de8e" name="Ancient Scar-Leader Kroq-Gar" publicationId="3a49-dd2e-fcaa-cdb1" page="69" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="06a5-d1d6-692f-de8e" name="Ancient Scar-Leader Kroq-Gar" publicationId="3a49-dd2e-fcaa-cdb1" page="69" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="08de-bfec-e82e-cdd5" type="max"/>
       </constraints>
