@@ -2164,12 +2164,19 @@ A character with this item cannot take any other magical item.</description>
     </rule>
     <rule id="08af-f3b5-f2e9-205a" name="Destroy of Eternities" publicationId="04f9-cede-fdb3-1e6c" page="36" hidden="false">
       <description>Tomb King on foot only
-The bloodthirsty King Nekbesb first wielded this massive, ornate blade in battle, smashing his foes in a directions and severing limbs and heads with eat swing. It is said that those slain by its blade have no chance of reaching the afterlife, and it was thus greatly feared in ancient Nehekbara. The sword was also use to ritually execute captured foes of the king, and it can cleave through armour, muscle and bone with ease.
-Counts as a great weapon and has the Killing Blow special ability. The player may choose to attack normally with the Destroyer of Eternities or make a special attack If the special attack is chosen, all enemy models that are touching the Tomb King take two automatic hits. The hits do benefit from the special rules for great weapons_ and Killing Blow. If a target is riding a monster or a chariot, then both take two automatic hits. In a challenge, only the model engaged in the challenge, counts as being in contact with the Tomb King.</description>
+
+
+Counts as a great weapon and has the Killing Blow special ability. 
+
+
+The player may choose to attack normally with the Destroyer of Eternities or make a special attack.
+
+
+If the special attack is chosen, all enemy models that are touching the Tomb King take two automatic hits. The hits do benefit from the special rules for great weapons_ and Killing Blow. If a target is riding a monster or a chariot, then both take two automatic hits. In a challenge, only the model engaged in the challenge, counts as being in contact with the Tomb King.</description>
     </rule>
     <rule id="0e28-d916-e21d-94cd" name="Crook &amp; Flail of Radiance" publicationId="04f9-cede-fdb3-1e6c" page="36" hidden="false">
       <description>Tomb King or Tomb Prince only.
-These gleaming, golden weapons represent the high status of the bearer, and all in his presence are humbled by the aura of majesty these weapons convey. Only the most powerful and influential leaders may bear these sacred symbols of rulersbip.
+
 +1 Attack. Always strikes first. If another character has this ability, then resolve the order of attacks in Initiative. order. Requires two hands.</description>
     </rule>
     <rule id="3976-18c1-ef36-1a72" name="Blade of Setep" publicationId="04f9-cede-fdb3-1e6c" page="36" hidden="false">
@@ -2183,12 +2190,14 @@ Normal armour cannot save against the Wade of Setep. If an enemy model hit by th
       <description>Counts as a flail (see page 91 in the Warhammer Rulebook). Each unsaved wound becomes two wounds.</description>
     </rule>
     <rule id="b8f2-8509-bee4-f035" name="Spear of Antarak" publicationId="04f9-cede-fdb3-1e6c" page="37" hidden="false">
-      <description>Follows all of the normal rules for a spear. In addition every unsaved wound inflicted by the Spear of Antarak  either the character, his chariot or a unit he is accompanying immediately regains 1 Wound as If Dedra&apos;s Incantation of Summoning has been cast on them.
+      <description>Follows all of the normal rules for a spear. In addition every unsaved wound inflicted by the Spear of Antarak either the character, his chariot or a unit he is accompanying immediately regains 1 Wound as If Dedra&apos;s Incantation of Summoning has been cast on them.
+
 Note that wounds inflicted by the enemy and subsequently healed by the Spear still count for combat resolution.</description>
     </rule>
     <rule id="140b-521a-0e97-a0bd" name="Serpent Staff" publicationId="04f9-cede-fdb3-1e6c" page="37" hidden="false">
       <description>High Liche Priests and Liche Priests only.
- Attacks with the Serpent Staff count as Poisoned Attacks. In addition, the model may reroll any failed rolls to hit in close combat.</description>
+
+Attacks with the Serpent Staff count as Poisoned Attacks. In addition, the model may reroll any failed rolls to hit in close combat.</description>
     </rule>
     <rule id="2044-ed46-6d9e-04a1" name="Armour of Eternity" publicationId="04f9-cede-fdb3-1e6c" page="37" hidden="false">
       <description>Enemy models must reroll successful rolls to wound on the character. Counts as light armour.</description>
@@ -2232,7 +2241,6 @@ If activated successfully, all Remains in Play spells on the tabletop are automa
     <rule name="Hieratic Jar" hidden="false" id="13c7-5366-e173-93ab" publicationId="04f9-cede-fdb3-1e6c" page="39">
       <description>One use only
 
-
 The Liche Priest may release the energy of the Hieratic Jar during any Magic phase, just after he has cast his normal incantations). The Jar allows him to use an extra incantation that phase.</description>
     </rule>
     <rule name="Neferra&apos;s Plaques of Mighty Incantations" hidden="false" id="6d36-2a90-d204-9364" page="38" publicationId="04f9-cede-fdb3-1e6c">
@@ -2244,50 +2252,42 @@ The Liche Priest may release the energy of the Hieratic Jar during any Magic pha
     <rule name="Staff of Ravening" hidden="false" id="9782-5ec7-9a00-78df" publicationId="04f9-cede-fdb3-1e6c" page="38">
       <description>Bound Item, Power Level 4
 
-
-This spell si a magic missile with 18 range. The targeted unit suffers 3D6 Strength 2 hits.</description>
+This spell is a magic missile with 18 range. The targeted unit suffers 3D6 Strength 2 hits.</description>
     </rule>
     <rule name="Blue Khepra" hidden="false" id="4e80-36b4-7db1-d990">
       <description>The bearer and the unit he joins have Magic Resistance (2)</description>
     </rule>
     <rule name="Death Mask of Kharnut" hidden="false" id="2c32-7566-b48a-9f18">
-      <description>Amodel wearing this mask causes terror.</description>
+      <description>A model wearing this mask causes terror.</description>
     </rule>
     <rule name="Brooch of The Great Desert" hidden="false" id="88cb-826-5387-6da3">
       <description>One use only
 
-
 As soon as an enemy spell is cast, the Brooch of the Great Desert may be used to automatically dispel it, just like a Dispel Scroll. 
-
 
 Note that as with Dispel Scrolls, the Brooch cannot be used to dispel a spell that is cast with Irresistible Force.</description>
     </rule>
     <rule name="Chariot of Fire" hidden="false" id="3935-4b09-3cf-9b0d">
       <description>Character in chariot only
 
-
 The character&apos;s chariot does D6+1 impacts hits, rather than D3. Impact hits from the  Chariot of Fire count as both magical attacks  and flaming attacks.</description>
     </rule>
     <rule name="Cloak of the Dunes" hidden="false" id="71dc-6d2e-8647-1992">
       <description>Characters on foot only
-
 
 The character can move as if flying, but may not charge whilst using this special movement. He pursues 3D6&quot;</description>
     </rule>
     <rule name="Icon of Rulership" hidden="false" id="5e2a-1faa-9f3c-2ba8">
       <description>Character in chariot only
 
-
 May be taken in addition to another item in the Enchanted Items list. The character&apos;s chariot has +1 Unit Strength (so will be worth a total Unit Strength of 5)</description>
     </rule>
     <rule name="Vambraces of the Sun" hidden="false" id="10a7-837b-6a3e-d46a">
       <description>One model in base contact, chosen by the bearer, loses 1 Attack. Against mounted models, the Tomb Kings player must choose either the mount/monster or the rider. If the
-model has several types of attack, the Tomb Kings player chooses which type of attack is lost. This has no effect
-against foes which do not use their Attacks value in combat, such as Giants.</description>
+model has several types of attack, the Tomb Kings player chooses which type of attack is lost. This has no effect against foes which do not use their Attacks value in combat, such as Giants.</description>
     </rule>
     <rule name="Golden Eye of Rah-Nutt" hidden="false" id="20e2-fc8f-60c2-cfdf">
       <description>Character in chariot only
-
 
 The chariot itself gains a Ward save of 5+,
 which only works against hits struck against the chariot, and will not apply to the character. In addition, wounding hits of Strength 7 or more that would normally destroy the chariot automatically do normal damage instead.</description>
@@ -2295,27 +2295,22 @@ which only works against hits struck against the chariot, and will not apply to 
     <rule name="Standard of the Sands" hidden="false" id="901-aefe-c585-a17b">
       <description>One use only
 
-
 At the start of any of your opponent&apos;s turns, the Standard of the Sands may be activated. The opponent may not make any march moves (even Dwarfs!) during t h e Movement phase of that turn, although skirmishers and man-sized single models on foot may move as normal. In addition, al units attempting to rally suffer 1- to their Leadership for that player&apos;s turn only.</description>
     </rule>
     <rule name="Banner of the Hidden Dead" hidden="false" id="785c-67d-a957-3667">
       <description>One use only
 
-
-At the beginning of the game, nominate one unit within
-your army that is to be hidden beneath the ground. This unit must be a Core Unit choice, and cannot cost more than 100 points. This
-unit is not deployed at the beginning of the game. The banner may be used to unearth the unit during the remaining moves part of any Tomb Kings Movement phase. The entire unit must be placed within 18&quot; of the Banner and at least &quot;1 away from
+At the beginning of the game, nominate one unit within your army that is to be hidden beneath the ground. This unit must be a Core Unit choice, and cannot cost more than 100 points. This unit is not deployed at the beginning of the game. The banner may be used to unearth the unit during the remaining moves part of any Tomb Kings Movement phase. The entire unit must be placed within 18&quot; of the Banner and at least &quot;1 away from
 any enemy models. It may move normally on the turn it appears.</description>
     </rule>
     <rule name="Icon of the Sacred Eye" hidden="false" id="55a-acf5-1812-a784">
-      <description>n the first round of every combat, al models in the unit (including steeds) get +1 to hit.</description>
+      <description>In the first round of every combat, all models in the unit (including steeds) get +1 to hit.</description>
     </rule>
     <rule name="Mirage Standard" hidden="false" id="7928-20fa-1d56-e89a">
       <description>Any missile weapons that roll to hit must re-roll all successful rolls to hit when firing against a unit that contains the Mirage  Standard. Against missile weapons that do not require a roll to hit (such as cannons and stone throwers), all models in the unit containing the Mirage Standard gain a 5+ Ward save.</description>
     </rule>
     <rule name="Icon of Rakaph" hidden="false" id="77a2-f2e5-be25-944b">
       <description>Tomb Guard or Skeleton Warriors only.
-
 
 A unit of Tomb Guard or Skeleton Warriors containing this banner may make a free reform move at the start of its Movement phase. This is done before charges are declared, so that a unit with the Icon of Rakaph may charge on the turn it reforms.</description>
     </rule>
@@ -2324,7 +2319,6 @@ A unit of Tomb Guard or Skeleton Warriors containing this banner may make a free
     </rule>
     <rule name="Banner of the Undying Legion" hidden="false" id="e3cc-c798-d0d7-70d9">
       <description>Bound Spell, PowerLevel 3.
-
 
 Casts Djedra&apos;s Incantation of Summoning. May only be cast on the unit containing the banner.</description>
     </rule>
