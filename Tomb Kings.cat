@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="9945-8537-0944-c67b" name="Tomb Kings" revision="7" battleScribeVersion="2.03" authorName="Ergo Fargo and Bryce Rutledge" authorContact="ergofargo@gmail.com" library="false" gameSystemId="6d8e-38d9-3c69-febf" gameSystemRevision="8" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
+<catalogue id="9945-8537-0944-c67b" name="Tomb Kings" revision="8" battleScribeVersion="2.03" authorName="Ergo Fargo and Bryce Rutledge" authorContact="ergofargo@gmail.com" library="false" gameSystemId="6d8e-38d9-3c69-febf" gameSystemRevision="8" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
   <publications>
     <publication id="04f9-cede-fdb3-1e6c" name="Tomb Kings"/>
     <publication id="024c-2a27-ea11-a5e8" name="Chronicles 2004"/>
@@ -2235,7 +2235,9 @@ If activated successfully, all Remains in Play spells on the tabletop are automa
 
 The Liche Priest may release the energy of the Hieratic Jar during any Magic phase, just after he has cast his normal incantations). The Jar allows him to use an extra incantation that phase.</description>
     </rule>
-    <rule name="Neferra&apos;s Plaques of Mighty Incantations" hidden="false" id="6d36-2a90-d204-9364" page="38" publicationId="04f9-cede-fdb3-1e6c"/>
+    <rule name="Neferra&apos;s Plaques of Mighty Incantations" hidden="false" id="6d36-2a90-d204-9364" page="38" publicationId="04f9-cede-fdb3-1e6c">
+      <description>The Priest may re-roll the dice rolled for any Incantation he&apos;s east. Either all of the dice must be re-rolled or none.</description>
+    </rule>
     <rule name="Staff of Mastery" hidden="false" id="d69a-1a59-1c60-d3cd" page="39" publicationId="04f9-cede-fdb3-1e6c">
       <description>The bearer adds +1 to the total rolled to determine the Power Level of his incantations.</description>
     </rule>
